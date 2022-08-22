@@ -4,8 +4,8 @@ I'm Chetan Kalia!
 
 A little bit about me:
 
-* ⚡ I am a 4th year Systems Design Engineering student at the University of Waterloo
-* 🔭 I'm currently working on building an application that people can use to upload and explore video content ~ kinda like Youtube
+* :school: I am a 4th year Systems Design Engineering student at the University of Waterloo
+* :computer: I'm currently working on building an <a href = "https://github.com/Ckalia11/django-challenge">application</a> that people can use to upload and explore video content ~ kinda like Youtube
 * 🌱 This summer, I learnt how to build full-stack web applications using Django and Rails
 * 🌱 I'm currently learning about the design and architecture of distributed systems
 * 👯 I'm looking to collaborate on a full-stack or machine learning project
